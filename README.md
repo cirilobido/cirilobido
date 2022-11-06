@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Cirilo Bidó, Android Developer since 2018. In this journey, I've been building amazing projects around the world🌎, meeting a lot of fascinating people and really incredible developers.
+- 💚 I’m really interested in #Android #Kotlin #Java #Flutter #JetpackCompose and constantly I'm learning about mobile technologies🌱
+- 📫 Feel free to reach me on Twitter [@cirilobido](https://twitter.com/cirilobido)
